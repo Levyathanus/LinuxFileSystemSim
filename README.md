@@ -20,3 +20,7 @@
 10. `menu` : show the current help menu;
 11. `prompt <prompt>` : change the command prompt text;
 12. `quit` : save the file system tree as "file_system_tree.txt" and quit.
+
+## References
+* Book: "System Programming in Unix/Linux" by K.C. Wang (2018)
+* C naming conventions: https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html#stacknames
