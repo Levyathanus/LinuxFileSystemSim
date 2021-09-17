@@ -1,7 +1,3 @@
-/* Install 32-bit support libraries: sudo apt-get install gcc-multilib
-   Compile in 32-bit gcc: gcc -m32 linux_file_system_tree_sim.c 
-   Run it and enjoy: ./a.out ( and 'menu' command in the sim) */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
