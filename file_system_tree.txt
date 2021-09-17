@@ -1,0 +1,6 @@
+ Type	 Pathname
+------	----------
+  D	/
+  D	/A
+  D	/A/B
+  D	/A/B/C
